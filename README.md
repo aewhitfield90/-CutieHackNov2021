@@ -1,2 +1,2 @@
 # -CutieHackNov2021
-First time hackathon proje
+First time hackathon project
